@@ -1,4 +1,4 @@
-# Arduino
+# Arduino 블루투스 도어락
 
 아두이노 보드: Arduino Uno 또는 Nano와 같은 보드.
  - 해당 프로젝트에서는 Arduino Uno R3 사용
